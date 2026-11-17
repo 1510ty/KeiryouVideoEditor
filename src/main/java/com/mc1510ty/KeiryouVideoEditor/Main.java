@@ -1,7 +1,6 @@
 package com.mc1510ty.KeiryouVideoEditor;
 
 import com.mc1510ty.KeiryouVideoEditor.gui.GUI;
-import com.mc1510ty.KeiryouVideoEditor.preview.GtkProbe;
 import com.mc1510ty.KeiryouVideoEditor.preview.Preview;
 
 public class Main {
